@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jxl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JAR/jxl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JAR/javadbf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JAR/dom4j-1.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
